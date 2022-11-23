@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @KyGuy2002
-- 👀 I’m interested in teaching myself programming.
-- 🌱 I’m currently learning Minecraft Java plug-in development.
+- 📚 I’m teaching myself programming.
+- 👾 I used to run a Minecraft Java server, and learned all about Minecraft Java plug-in development and database/api/minecraft interactions.
+- 🕸 I'm currently learning web dev, mostly using Cloudflare Pages.
 - 📫 You can contact me on discord with "IEatBeans#1165".
 
 <!---

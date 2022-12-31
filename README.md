@@ -4,4 +4,9 @@
 - 🕸 I'm currently learning web dev, mostly using Cloudflare Pages.
 - 📫 You can contact me on discord with "IEatBeans#1165".
 
-[![KyGuy2002's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kyguy2002&count_private=true&show_icons=true&hide_title=true&include_all_commits=true&hide_rank=true)](https://github.com/kyguy2002)
+<a>
+  <img align="center" src="[https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats](https://github-readme-stats.vercel.app/api?username=kyguy2002&count_private=true&show_icons=true&hide_title=true&include_all_commits=true)" />
+</a>
+<a>
+  <img align="center" src="(https://github-readme-stats.vercel.app/api/top-langs/?username=kyguy2002&layout=compact" />
+</a>

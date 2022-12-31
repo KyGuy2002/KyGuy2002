@@ -7,6 +7,6 @@
 <a>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=kyguy2002&count_private=true&show_icons=true&hide_title=true&include_all_commits=true" />
 </a>
-<a>
+<a style="display: inline">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyguy2002&layout=compact" />
 </a>

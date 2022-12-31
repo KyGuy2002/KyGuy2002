@@ -6,4 +6,4 @@
 
 [![KyGuy2002's Stats](https://github-readme-stats.vercel.app/api?username=kyguy2002&count_private=true&show_icons=true&hide_title=true&include_all_commits=true)](https://github.com/kyguy2002)
 
-[![KyGuy2002's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kyguy2002&layout=compact)](https://github.com/kyguy2002)
+[![KyGuy2002's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kyguy2002&layout=compact&count_private=true)](https://github.com/kyguy2002)
